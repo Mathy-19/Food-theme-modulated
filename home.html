@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+    <link rel="stylesheet"  href="static/style2.css">
+</head>
+<body>
+<div class="yellow"></div>
+<h1>The Sunday Bite</h1>
+<h3>Delicious food for every mood</h3>
+<img class="home" src="static/home.jpeg">
+
+    <button id="myButton"  >About</button>
+   <button id="my" >Mission</button>
+    <button id="myButton2"> Menu</button>
+    <button id="myButton3"> Review</button>
+    <button id="myButton4"> Contact</button>
+<script type="text/javascript">
+    document.getElementById("myButton").onclick = function () {
+        location.href = "http://127.0.0.1:5000/about";
+    };
+
+     document.getElementById("my").onclick= function (){
+        location.href="http://127.0.0.1:5000/mission";
+    };
+
+    document.getElementById("myButton2").onclick= function(){
+        location.href="http://127.0.0.1:5000/menu";
+    };
+
+    document.getElementById("myButton3").onclick= function(){
+        location.href="http://127.0.0.1:5000/review";
+    };
+
+    document.getElementById("myButton4").onclick= function(){
+        location.href="http://127.0.0.1:5000/contact";
+    };
+    </script>
+
+
+
+<script>
+        function handleClick() {
+            alert("Are you sure, you want to book a table?");
+
+        }
+</script>
+
+
+
+
+</body>
+</html>

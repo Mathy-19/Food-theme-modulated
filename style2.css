@@ -1,0 +1,630 @@
+.yellow{
+    background-color: #ffd230;
+    width: 1373px;
+    margin-left: -8px;
+    margin-top: -8px;
+    position: absolute;
+    height: 605px;
+}
+
+h1 {
+    position: absolute;
+    margin-top: -7px;
+    font-family: monospace;
+    font-size: 72px;
+   margin-left: 364px;
+}
+
+h3 {
+       margin-top: 86px;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: 505px;
+    position:absolute;}
+img.home {
+         width: 732px;
+    height: 395px;
+    margin-left: 298px;
+        margin-top: 196px;
+        position:absolute;
+    }
+.white{
+background-color: white;
+    width: 1366px;
+    height: 460px;
+    margin-top: 60px;
+    position: absolute;
+ }
+
+#border {
+        margin-top: 517px;
+    margin-left: 596px;
+    background-color: #ffd230;
+    width: 119px;
+    height: 24px;
+    font-family: monospace;
+    font-size: 14px;
+    text-align: center;
+    padding: 1px;
+    position: absolute;
+    border: none;
+
+}
+img.about {
+          position: absolute;
+    margin-top: 113px;
+    margin-left: 291px;
+    border-radius: 20px;
+    height: 259px;
+    width: 295px;
+}
+.ab{
+       position: absolute;
+    margin-top: 154px;
+    margin-left: 668px;
+    font-family:monospace;
+    font-size:41px;
+    font-style: oblique;
+    }
+.tsb{
+            position: absolute;
+    margin-top: 154px;
+    margin-left: 783px;
+    font-family:monospace;
+    font-size:41px;
+    color:#ffd230;
+    font-style: oblique;
+    }
+p.pa {
+    margin-top: 219px;
+    margin-left: 665px;
+    font-family: monospace;
+    font-size: 16px;
+    font-style: normal;
+    position: absolute;
+            text-align: left;
+            }
+.white1{
+background-color: white;
+    width: 1366px;
+    height: 460px;
+    margin-top: 87px;
+    position: absolute;
+    }
+h2.ma {
+    font-family: monospace;
+    font-size: 40px;
+    margin-top: 63px;
+    position: absolute;
+    margin-left: 300px;
+    font-style: oblique;
+    text-align: center;
+    }
+h2.te{
+     font-family: monospace;
+    font-size: 40px;
+    margin-top: 103px;
+    position: absolute;
+    margin-left: 293px;
+    font-style: oblique;
+    color: #ffd230;
+    }
+p.th {
+    position: absolute;
+    font-family: monospace;
+    font-size: 16px;
+    margin-top: 163px;
+    margin-left: 293px;
+        text-align: left;
+        }
+.box {
+         border: 166px solid;
+    color: #FFD230;
+    width: 0px;
+    height: -4px;
+    margin-left: 686px;
+    margin-top: 17px;
+    border-radius: 20px;
+    height: 1px;
+}
+.ne{
+
+    position: absolute;
+    font-size: 82px;
+    color: black;
+    margin-top: -142px;
+    margin-left: -121px;
+
+}
+p.about {
+    position: absolute;
+    color: black;
+    margin-top: -106px;
+    margin-left: -85px;
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.ch {
+        position: absolute;
+    color: black;
+    margin-top: -83px;
+    margin-left: -85px;
+    font-family: normal;
+    font-size: 10px;
+}
+.ai{
+
+
+    position: absolute;
+    font-size: 82px;
+    color: black;
+    margin-top: -80px;
+    margin-left: -121px;
+
+}
+p.comfort {
+    position: absolute;
+    color: black;
+    margin-top: -44px;
+    margin-left: -85px;
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.Da {
+    position: absolute;
+    color: black;
+    margin-top: -22px;
+    margin-left: -85px;
+    font-family: normal;
+    font-size: 10px;
+}
+.ww{
+     position: absolute;
+    font-size: 82px;
+    color: black;
+    margin-top: -9px;
+    margin-left: -121px;
+   }
+p.Better {
+    position: absolute;
+    color: black;
+    margin-top: 22px;
+    margin-left: -85px;
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.Fr {
+    position: absolute;
+    color: black;
+    margin-top: 45px;
+    margin-left: -85px;
+    font-family: normal;
+    font-size: 10px;
+}
+h6.one {
+    position: absolute;
+    color: white;
+    margin-top: -55px;
+    font-family: monospace;
+    font-size: 17px;
+    margin-left: 8px;
+}
+h6.two{
+ position: absolute;
+    color: white;
+    margin-top: -55px;
+    font-family: monospace;
+    font-size: 17px;
+    margin-left: 8px;
+
+ }
+ h6.three{
+  position: absolute;
+    color: white;
+    margin-top: -55px;
+    font-family: monospace;
+    font-size: 17px;
+    margin-left: 8px;
+   }
+.yellow1{
+      background-color: #ffd230;
+    width: 1366px;
+    height: 625px;
+    margin-top: -8px;
+    position: absolute;
+    margin-left: -8px;
+    }
+h3.menu {
+    font-family: monospace;
+    font-size: 40px;
+    margin-left: 297px;
+    font-style: oblique;
+    margin-top: 222px;
+    text-align: center;
+    position:absolute;
+    }
+#bor{
+background-color: black;
+    width: 115px;
+    height: 33px;
+    font-family: monospace;
+    font-size: 12px;
+    text-align: center;
+    position: absolute;
+    color: white;
+    margin-top: 365px;
+    margin-left: 304px;
+    }
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    width: 200px;
+    position: absolute;
+    margin-top: 407px;
+    margin-left: 520px;
+    background-color: white;
+    height: 90px;
+    border-radius: 16px;
+    }
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+img.burger {
+         position: absolute;
+    width: 226px;
+    height: 269px;
+    margin-top: 157px;
+    margin-left: 504px;
+    border-radius: 12px
+        }
+b {
+        text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    margin-left: 15px;
+    margin-top: 18px;
+    position: absolute;
+}
+p {
+    position: absolute;
+    font-family: monospace;
+    margin-top: 41px;
+    font-size: 10px;
+    margin-left: 24px;
+    text-align: center;
+    }
+.card1 {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    width: 200px;
+    position: absolute;
+    margin-top: 407px;
+    margin-left: 740px;
+    background-color: white;
+    height: 90px;
+    border-radius: 16px;
+
+    }
+
+.card1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container1 {
+  padding: 2px 16px;
+}
+img.fish {
+        position: absolute;
+    width: 220px;
+    height: 269px;
+    margin-top: 157px;
+    margin-left: 731px;
+    border-radius: 12px;
+        }
+b1{
+        text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    margin-left: 15px;
+    margin-top: 18px;
+    position: absolute;
+    font-weight:bold;
+    }
+p1{
+       position: absolute;
+    font-family: monospace;
+    margin-top: 41px;
+    font-size: 10px;
+    margin-left: 8px;
+    text-align: center;
+    }
+.card2 {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    width: 200px;
+    position: absolute;
+    margin-top: 407px;
+    margin-left: 961px;
+    background-color: white;
+    height: 90px;
+    border-radius: 16px;
+}
+
+.card2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container2 {
+  padding: 2px 16px;
+}
+
+   img.juice {
+        position: absolute;
+    width: 222px;
+    height: 269px;
+    margin-top: 171px;
+    margin-left: 950px;
+    border-radius: 12px;
+
+        }
+b2{
+        text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    margin-left: 15px;
+    margin-top: 18px;
+    position: absolute;
+    font-weight:bold;
+    }
+p2{
+        position: absolute;
+    font-family: monospace;
+    margin-top: 41px;
+    font-size: 10px;
+    margin-left: 17px;
+    text-align: center;}
+.white2 {
+    background-color: white;
+    width: 1366px;
+    height: 460px;
+    margin-top: 16px;
+    position: absolute;
+}
+p5 {
+    font-family: monospace;
+    font-size: 40px;
+    position: absolute;
+    font-weight: bolder;
+        margin-left: 467px;
+    margin-top: 30px;
+}
+p6 {
+    font-family: monospace;
+    font-size: 40px;
+    position: absolute;
+    font-weight: bolder;
+      margin-left: 663px;
+    margin-top: 30px;
+    color: #ffd230;
+}
+img.pic1 {
+    position: absolute;
+    width: 191px;
+    height: 204px;
+        margin-left: 285px;
+    margin-top: 104px;
+}
+p7 {
+           position: absolute;
+    margin-top: 313px;
+        margin-left: 297px;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+}
+p8 {
+    position: absolute;
+    margin-top: 362px;
+   margin-left: 278px;
+    font-family: monospace;
+    font-size: 10px;
+    text-align: center;
+}
+img.pic2 {
+    position: absolute;
+    width: 191px;
+    height: 204px;
+    margin-left: 608px;
+    margin-top: 104px;
+}
+p9 {
+       position: absolute;
+    margin-top: 313px;
+    margin-left: 626px;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+}
+p10 {
+       position: absolute;
+    margin-top: 340px;
+        margin-left: 616px;
+    font-family: monospace;
+    font-size: 10px;
+    text-align: center;
+}
+img.pic3 {
+    position: absolute;
+    width: 191px;
+    height: 204px;
+        margin-left: 911px;
+    margin-top: 104px;
+}
+p11 {
+     position: absolute;
+    margin-top: 313px;
+    margin-left: 934px;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+}
+p12 {
+       position: absolute;
+    margin-top: 362px;
+    margin-left: 930px;
+    font-family: monospace;
+    font-size: 10px;
+    text-align: center;
+}
+.yellow3{
+    background-color: #ffd230;
+    width: 1366px;
+    height: 615px;
+    margin-top: 0px;
+    position: absolute;
+    margin-left: -8px;
+    }
+h2.swing{
+    font-family: monospace;
+    margin-left: 514px;
+    margin-top: 83px;
+    font-weight: bolder;
+    font-size: 45px;
+    position: absolute;
+    }
+h3.sunday {
+    font-family: monospace;
+    font-size: 20px;
+    margin-top: 190px;
+    margin-left: 595px;
+    position: absolute;
+
+}
+h4.address {
+       font-family: monospace;
+    font-size: 12px;
+    margin-top: 220px;
+    margin-left: 532px;
+    position: absolute;
+}
+h3.Email {
+    font-size: 20px;
+    position: absolute;
+    font-family: monospace;
+    margin-top: 285px;
+    margin-left: 601px;
+}
+h4.hello{
+font-family: monospace;
+    font-size: 12px;
+    margin-top: 313px;
+    margin-left: 591px;
+    position: absolute;
+    }
+
+h3.phone{
+     font-size: 20px;
+    position: absolute;
+    font-family: monospace;
+    margin-top: 374px;
+    margin-left: 603px;
+   }
+h4.number{
+font-family: monospace;
+    font-size: 12px;
+    margin-top: 406px;
+    margin-left: 622px;
+    position: absolute;
+   }
+   #myButton {
+         position: absolute;
+    width: 100px;
+    height: 32px;
+    margin-left: 313px;
+    margin-top: 159px;
+    font-family: monospace;
+    font-size: 22px;
+    background-color: black;
+    color: white;
+    border-radius:5px;
+}
+#myButton:hover{
+background-color:#ffd230;
+}
+button#my {
+       position: absolute;
+    width: 100px;
+    height: 32px;
+    margin-top: 159px;
+    margin-left: 453px;
+    font-family: monospace;
+    font-size: 22px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+#my:hover{
+background-color:#ffd230;
+}
+
+button#myButton2{
+          position: absolute;
+    width: 100px;
+    height: 32px;
+    margin-top: 159px;
+    margin-left: 601px;
+    font-family: monospace;
+    font-size: 22px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+#myButton2:hover{
+background-color:#ffd230;
+}
+button#myButton3{
+         position: absolute;
+    width: 100px;
+    height: 32px;
+    margin-top: 159px;
+    margin-left: 751px;
+    font-family: monospace;
+    font-size: 22px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+#myButton3:hover{
+background-color:#ffd230;
+}
+button#myButton4{
+        position: absolute;
+    width: 100px;
+    height: 32px;
+    margin-top: 159px;
+    margin-left: 904px;
+    font-family: monospace;
+    font-size: 22px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+#myButton4:hover{
+background-color:#ffd230;
+}
